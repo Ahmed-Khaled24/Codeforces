@@ -1,3 +1,4 @@
+# Codeforces Solutions:
 
-Codeforces Problems Solutions using C++.
-
+1. Using C++
+2. Using Java
